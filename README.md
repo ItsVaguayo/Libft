@@ -70,3 +70,5 @@ typedef struct s_list
     struct s_list   *next;
 } t_list;
 ```
+---
+This project was completed as part of the 42 curriculum.
