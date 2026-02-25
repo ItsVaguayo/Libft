@@ -1,5 +1,5 @@
 # Libft
-![42 School](https://img.shields.io/badge/-School-000000?style=flat-square&logo=42&logoColor=white)
+![42 School](https://img.shields.io/badge/-School-000000?style=flat-square&logo=42&logoColor=white) <br>
 First C library project in the 42 curriculum: a custom libc-like library plus extra utilities and a linked-list bonus.  
 Built with `-Wall -Wextra -Werror`, no global variables, and proper memory management (no leaks).
 
